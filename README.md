@@ -1,5 +1,6 @@
 🚀 Project Title: Simple CRUD Operations for Job Holder Data with Python Django
-If You Run This Project And get the Preview! here is Repl Link: 
+If You Run This Project And get the Preview! here is Repl Link: https://replit.com/@Pythonworlds/Simple-CRUD-Operations-for-Job-Holder-Data-with-Python-Djang?v=1
+I have given a preview image of this project in the thumbnail option of the settings. If you want to see then click on settings option..
 
 📄 Description:
 I’ve developed a web application that efficiently handles CRUD (Create, Read, Update, Delete) operations for job holder data using Python Django. 
@@ -15,7 +16,7 @@ Image Handling: Upload and display profile images for each job holder.
 
 Backend: Python Django
 Database: SQLite (default Django database)
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML
 Image Handling: Django File Uploads
 📈 Purpose:
 This project demonstrates my proficiency in building web applications with Python Django, 
