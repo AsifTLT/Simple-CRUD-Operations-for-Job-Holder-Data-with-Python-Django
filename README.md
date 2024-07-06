@@ -1,5 +1,7 @@
-🚀 Project Title: Simple CRUD Operations for Job Holder Data with Python Django
+🚀 Project Title: Simple CRUD Operations for Job Holder Data with Python Django...
+
 If You Run This Project And get the Preview! here is Repl Link: https://replit.com/@Pythonworlds/Simple-CRUD-Operations-for-Job-Holder-Data-with-Python-Djang?v=1
+
 I have given a preview image of this project in the thumbnail option of the settings. If you want to see then click on settings option..
 
 📄 Description:
